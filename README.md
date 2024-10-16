@@ -5,6 +5,12 @@ If diff = 2 thats means all 1/2 address can get reward / airdrop or what ever yo
 
 If you wanna make this airdrop 1/10 users just change difficulty as 10.
 
+
+# Quick Ardrops
+
+You can share quick airdrops with your community people check 
+their airdrops from your website or program if they are lucky can claim their airdrops.
+
 # Random number generator.
 
 This secret ZK Codes generating random number from address and nobody know how this formula works with this method you can create luck based games and all other things.
