@@ -1,9 +1,32 @@
 ## ZKmine
+Welcome to the zk-mine;
 
 In this example our program get users ethereum address and checking mod of deffuclity.
 If diff = 2 thats means all 1/2 address can get reward / airdrop or what ever you want.
 
 If you wanna make this airdrop 1/10 users just change difficulty as 10.
+
+## Contact
+
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://x.com/yasinaktimur/)
+[![GitHub Issues](https://img.shields.io/badge/open%20issues-0-yellow.svg)](https://github.com/omgbbqhaxx/zkmine/issues)
+
+- Chat in [twitter](https://x.com/yasinaktimur).
+- Submit your zk-app [Google forms](https://forms.gle/YKo3P8XSDx4KYD768).
+
+
+
+## Getting Started
+
+Documents about zkRust hosts the **[alignedlayer docs.](https://docs.alignedlayer.com/)**, which
+has a Quick Start section.
+
+Operating system | Status
+---------------- | ----------
+SP1 | [![TravisCI](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://travis-ci.org/cloudbank/cloudbank-github)
+RISC0         | [![AppVeyor](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://ci.appveyor.com/project/cloudbank/cloudbank-github)
+
+ 
 
 
 # Quick Ardrops
