@@ -48,3 +48,32 @@ In the current setup, one wallet can generate only one random number. However, w
 ## Origin of the "ZKMine" Name
 
 If you increase the difficulty, people can develop mining programs to test various wallets in an attempt to win rewards. This concept allows users to engage in "wallet mining" to mint or earn rewards from the contract.
+
+## Usagement
+First of all please add zkmine program in your zkRust files example folder.
+sudo apt-get install nginx
+You must be in zkRust folder
+
+with this commant you can test zkMine program instantly.
+
+```shell
+sudo cargo run --release -- prove-sp1 examples/zkmine
+```
+
+When you create an ELF file.
+
+Clone the aligned repo and run 
+
+sudo make install_aligned_compiling
+
+If the binary doesn’t work
+
+```shell
+aligned get-vk-commitment --verification_key_file <path_to_input_file> --proving_system SP1
+```
+
+## License
+
+[![License](https://img.shields.io/github/license/ethereum/cpp-ethereum.svg)](LICENSE)
+
+All contributions are made under the [GNU General Public License v3](https://www.gnu.org/licenses/gpl-3.0.en.html). See [LICENSE](LICENSE).
