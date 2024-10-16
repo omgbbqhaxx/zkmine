@@ -1,10 +1,9 @@
 ## ZKmine
 Welcome to the zk-mine;
 
-In this example our program get users ethereum address and checking mod of deffuclity.
-If diff = 2 thats means all 1/2 address can get reward / airdrop or what ever you want.
+In this example, our program retrieves the user's Ethereum address and checks the difficulty modulus. If the difficulty is set to 2, this means 1 out of every 2 addresses can receive a reward, airdrop, or any other incentive you choose to provide.
 
-If you wanna make this airdrop 1/10 users just change difficulty as 10.
+If you'd like the airdrop to target 1 out of every 10 users, simply adjust the difficulty to 10.
 
 ## Contact
 
@@ -18,10 +17,10 @@ If you wanna make this airdrop 1/10 users just change difficulty as 10.
 
 ## Getting Started
 
-Documents about zkRust hosts the **[alignedlayer docs.](https://docs.alignedlayer.com/)**, which
+Documents about zkRust hosts the **[alignedlayer docs](https://docs.alignedlayer.com/)**  which
 has a Quick Start section.
 
-Operating system | Status
+ZKVM's | Status
 ---------------- | ----------
 SP1 | [![TravisCI](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://travis-ci.org/cloudbank/cloudbank-github)
 RISC0         | [![AppVeyor](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://ci.appveyor.com/project/cloudbank/cloudbank-github)
