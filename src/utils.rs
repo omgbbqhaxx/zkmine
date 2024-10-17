@@ -5,7 +5,7 @@ pub fn ask_question(question: &str) -> String {
 }
 
 fn is_valid_address(address: &str) -> bool {
-    // Ethereum adresi "0x" ile başlamalı ve 42 karakter uzunluğunda olmalı
+    // Ethereum adresi "0x" ile başlamalı ve 42 karakter uzunluğunda olmalı...
     address.starts_with("0x") && address.len() == 42 && address.chars().all(|c| c.is_digit(16) || c == 'x')
 }
 
